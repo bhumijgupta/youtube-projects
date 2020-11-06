@@ -15,4 +15,20 @@ A collection of source code and resources for my youtube videos
 
 ## Feedback
 
-If you would like to request/suggest any topic/improvement for my video, [click here](https://github.com/bhumijgupta/youtube-projects/issues/new)
+If you would like to request/suggest any topic/improvement for my video, [click here](https://github.com/bhumijgupta/youtube-projects/issues/new?template=suggestion.md&title=Video+request%3A+)
+
+## Build with ♡ by
+
+### Bhumij Gupta
+
+<img src="https://avatars.githubusercontent.com/bhumijgupta?size=200" alt="Bhumij profile picture">
+
+![GitHub followers](https://img.shields.io/github/followers/bhumijgupta?label=Follow&style=social) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@bhumijgupta&color=success&logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/bhumijgupta/) ![Twitter Follow](https://img.shields.io/twitter/follow/bhumijgupta?style=social)
+
+---
+
+```javascript
+if (repo.isAwesome || repo.isHelpful) {
+  StarRepo();
+}
+```
