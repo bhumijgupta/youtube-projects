@@ -1,0 +1,6 @@
+Host programylis-demo
+	IdentityFile	~/Documents/ssh/course-ec2.pem
+	User	ubuntu
+	HostName	13.232.21.187
+	IdentitiesOnly	yes
+

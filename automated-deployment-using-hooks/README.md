@@ -4,3 +4,4 @@
 
 1. [Node server](./node-server)
 2. [post-receive hook](./post-receive)
+3. [sample ssh config](./config)
